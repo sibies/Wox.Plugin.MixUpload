@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wox.Plugin.MixUpload", "src\Wox.Plugin.MixUpload\Wox.Plugin.MixUpload.csproj", "{DC2E0C7F-C8E2-48A7-9684-34CAD511DDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wox.Plugin.MixUpload.Tests", "test\Wox.Plugin.MixUpload.Tests\Wox.Plugin.MixUpload.Tests.csproj", "{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "asserts", "asserts", "{3CEE6D59-10DE-4DE4-9BE8-7170C459C6E0}"
+	ProjectSection(SolutionItems) = preProject
+		asserts\mixupload.gif = asserts\mixupload.gif
+		asserts\Wox.Plugin.MixUpload-9d7978f5-a7e6-4e04-97db-7b112b5ecd05.wox = asserts\Wox.Plugin.MixUpload-9d7978f5-a7e6-4e04-97db-7b112b5ecd05.wox
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2E0C7F-C8E2-48A7-9684-34CAD511DDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2E0C7F-C8E2-48A7-9684-34CAD511DDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2E0C7F-C8E2-48A7-9684-34CAD511DDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2E0C7F-C8E2-48A7-9684-34CAD511DDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

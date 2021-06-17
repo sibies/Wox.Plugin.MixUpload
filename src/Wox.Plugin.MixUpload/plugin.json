@@ -1,0 +1,12 @@
+﻿{
+  "ID": "F8F1CA264E1E420584760DF6D926783E",
+  "ActionKeyword": "mu",
+  "Name": "Wox.Plugin.MixUpload",
+  "Description": "MixUpload.org for Wox",
+  "Author": "TotPe.Ro (@totpero)",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/TotPeRo/Wox.Plugin.MixUpload",
+  "IcoPath": "Images\\mixupload.png",
+  "ExecuteFileName": "Wox.Plugin.MixUpload.dll"
+}
